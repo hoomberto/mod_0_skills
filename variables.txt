@@ -1,0 +1,13 @@
+Variables
+
+var famousPerson = "Nikolai Tesla"
+var isActive = false
+famousPerson = "Albert Einstein"
+var num3 = 3
+var num9 = 9
+var sum = num3 + num9
+animals = ['Cats', 'Dogs', 'Birds']
+animals.splice(0,1);
+
+var famousCharacters = famousPerson.split('');
+console.log(famousCharacters);
